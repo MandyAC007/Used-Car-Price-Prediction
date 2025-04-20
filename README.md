@@ -48,7 +48,7 @@ What we learn:
 - Model works best within the data's distribution and may need retraining over time.
 
 
-![Price Distribution](images/price-distribution.png)
+imagesprice-distribution.png
 
 
 ---
